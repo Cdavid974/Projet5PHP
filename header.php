@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <a href="index.php"><img src="images/logo.png" alt="Logo Artbox" id="logo"></a>
+        <a href="index.php"><img src="./images/logo.png" alt="Logo Artbox" id="logo"></a>
         <nav>
             <ul>
 
