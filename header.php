@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -10,10 +10,12 @@
 
 <body>
     <header>
-        <a href="index.php"><img src="./images/logo.png" alt="mon logo"></a>
+        <a href="index.php"><img src="images/logo.png" alt="Logo Artbox" id="logo"></a>
         <nav>
             <ul>
+
                 <li><a href="index.php">Accueil</a></li>
+
             </ul>
         </nav>
     </header>
